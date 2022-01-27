@@ -60,11 +60,16 @@ body {
     flex-direction: column;
 }
 
-.FID {
+.fid {
     width: 2em;
     vertical-align: middle;
     border-radius: 50%;
     border: 1px solid white;
+}
+
+h1 {
+    font-size: 1.3em;
+    font-weight: 600;
 }
 
 .whity {
