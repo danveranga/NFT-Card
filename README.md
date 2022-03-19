@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution Page]()
+- Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/solutions/responsive-design-using-the-css-flexbox-and-the-goodol-vanilla-css-okAh2PSBE)
 - Live Site URL: [Live Preview](https://danveranga.github.io/fm1-nft-card/)
 
 ## My process
